@@ -1,6 +1,6 @@
 # Google-foobar-Challenge-Solutions
 
-I got the Google's foobar Challenge on 15th May 2020. It really did come to me as a shock that Google thought I was good enough for it, considering the purpose of the challenge.
+I got the Google's foobar Challenge on 15th May 2020. It really did come to me as a shock that Google thought I was good enough for it, considering the purpose of the challenge. But well, there it was in front of me.
 
  ![](https://media-exp1.licdn.com/dms/image/C5622AQEvrz50XC2aYw/feedshare-shrink_1280/0?e=1593043200&v=beta&t=no-dbY1TX9kEx-yrfSflEWoMh2bCacd0kIW0NmYZYXE)
 
