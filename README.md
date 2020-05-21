@@ -6,13 +6,13 @@ I got the Google's foobar Challenge on 15th May 2020. It really did come to me a
 
 It is said to be some kind of a secret hiring process done by Google. This is not a challenge everyone can take; you have to be among the 'few chosen' ones. The criteria for getting this challenge is not yet clear, but it does seem like what you search, plays a role in making Google believe that you are worthy of this challenge.
 
-The way you are introduced to this challenge goes something like this-
-
-***Success! You've managed to infiltrate Commander Lambda's evil organization, and finally earned yourself an entry-level position as a Minion on her space station. From here, you just might be able to subvert her plans to use the LAMBCHOP doomsday device to destroy Bunny Planet. Problem is, Minions are the lowest of the low in the Lambda hierarchy. Better buck up and get working, or you'll never make it to the top...***
-
 One thing that I have to say is that the way they have framed and designed this challenge is commendable.
 Its some sort of a mission that they assign you and you need to rise through the ranks to infiltrate and successfully take down the enemy.
 I have to say it really is a fun experience in itself.
+
+The way you are introduced to this challenge goes something like this-
+
+***Success! You've managed to infiltrate Commander Lambda's evil organization, and finally earned yourself an entry-level position as a Minion on her space station. From here, you just might be able to subvert her plans to use the LAMBCHOP doomsday device to destroy Bunny Planet. Problem is, Minions are the lowest of the low in the Lambda hierarchy. Better buck up and get working, or you'll never make it to the top...***
 
 There are 5 Levels in all in the Challenge with such creative names-
 * #### Level 1 
