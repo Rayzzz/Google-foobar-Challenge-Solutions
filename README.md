@@ -2,6 +2,8 @@
 
 I got the Google's foobar Challenge on 15th May 2020. It really did come to me as a shock that Google thought I was good enough for it, considering the purpose of the challenge.
 
+ ![alt tag](file:///C:/Users/Rayvant%20Sahni/Desktop/foobar%20invitation%20page.jpeg)
+
 It is said to be some kind of a secret hiring process done by Google. This is not a challenge everyone can take; you have to be among the 'few chosen' ones. The criteria for getting this challenge is not yet clear, but it does seem like what you search, plays a role in making Google believe that you are worthy of this challenge.
 
 One thing that I have to say is that the way they have framed and designed this challenge is commendable.
