@@ -24,5 +24,4 @@ There are 5 Levels in all in the Challenge with such creative names-
 So creative, no?
 
 Anyway, the excitement doesn't end here. This challenge also gives you 'rewards' after each level (except after Level 1).
-
-P.S. I will keep on updating this information as I move to further levels...
+So, if you have received this challenge then go ahead and impress Google with your awesome coding skills.
