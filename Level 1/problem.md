@@ -14,7 +14,7 @@ Inputs:
 solution([1, 2, 3], 0)
 
 Output:
-[]
+[ ]
 
 
 #### Test Case 2
