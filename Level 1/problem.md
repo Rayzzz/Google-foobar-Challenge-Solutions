@@ -11,16 +11,16 @@ Write a function called solution(data, n) that takes in a list of less than 100 
 #### Test Case 1
 
 Inputs:
-solution([1, 2, 3], 0)
+*solution([1, 2, 3], 0)*
 
 Output:
-[ ]
+*[ ]*
 
 
 #### Test Case 2
 
 Inputs:
-solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)
+*solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)*
 
 Output:
-[1, 4]
+*[1, 4]*
