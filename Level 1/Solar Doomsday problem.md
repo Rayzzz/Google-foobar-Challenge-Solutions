@@ -11,15 +11,15 @@ Write a function answer(area) that takes as its input a single unit of measure r
 
 ### Test Case 1
 Inputs:
-answer(12)
+*answer(12)*
 
 Output:
-[9, 1, 1, 1]
+*[9, 1, 1, 1]*
 
 ### Test Case 2
 
 Inputs:
-answer(15324)
+*answer(15324)*
 
 Output:
-[15129, 169, 25, 1]
+*[15129, 169, 25, 1]*
