@@ -1,5 +1,3 @@
-n = int(input())
-
 def answer(area):
     import math
     a = []
