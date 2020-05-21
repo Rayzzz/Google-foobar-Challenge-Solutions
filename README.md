@@ -17,4 +17,4 @@ There are 5 Levels in all in the Challenge with such creative names-
 
 Creative, no?
 
-Anyway, the excitement doesn't end here. This challenge also gives you 'rewards' after each level(except after Level 1).
+Anyway, the excitement doesn't end here. This challenge also gives you 'rewards' after each level (except after Level 1).
