@@ -16,13 +16,12 @@ The way you are introduced to this challenge goes something like this-
 
 There are 5 Levels in all in the Challenge with such creative names-
 * #### Level 1 
-1 question and 48 hours
 * #### Level 2
 * #### Level 3
 * #### Level 4
 * #### Level 5
 
-Creative, no?
+So creative, no?
 
 Anyway, the excitement doesn't end here. This challenge also gives you 'rewards' after each level (except after Level 1).
 
