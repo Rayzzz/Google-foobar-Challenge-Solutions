@@ -10,6 +10,7 @@ I have to say it really is a fun experience in itself.
 
 There are 5 Levels in all in the Challenge with such creative names-
 * #### Level 1 
+1 question and 48 hours
 * #### Level 2
 * #### Level 3
 * #### Level 4
@@ -18,3 +19,5 @@ There are 5 Levels in all in the Challenge with such creative names-
 Creative, no?
 
 Anyway, the excitement doesn't end here. This challenge also gives you 'rewards' after each level (except after Level 1).
+
+P.S. I will keep on updating this information as I move to further levels...
