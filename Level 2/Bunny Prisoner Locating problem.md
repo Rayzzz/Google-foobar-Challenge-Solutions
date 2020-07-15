@@ -25,6 +25,6 @@ Input: _solution(5, 10)_
 Output: _96_
 
 #### Test Case 2
-Input: __solution(3, 2)__
+Input: _solution(3, 2)_
 
 Output: _9_
