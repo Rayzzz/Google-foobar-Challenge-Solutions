@@ -17,14 +17,21 @@ For example, the bunny prisoner at (1, 1) has ID 1, the bunny prisoner at (3, 2)
 
 Write a function solution(x, y) which returns the prisoner ID of the bunny at location (x, y). Each value of x and y will be at least 1 and no greater than 100,000. Since the prisoner ID can be very large, return your solution as a string representation of the number..
 
-### Test Cases
 
-#### Test Case 1
-Input: _solution(5, 10)_
 
-Output: _96_
 
-#### Test Case 2
-Input: _solution(3, 2)_
+#### Test cases
+==========
+Your code should pass the following test cases.
+Note that it may also be run against hidden test cases not shown here.
 
-Output: _9_
+##### -- Python cases --
+Input:
+solution.solution(5, 10)
+
+Output: 96
+
+Input:
+solution.solution(3, 2)
+
+Output: 9
