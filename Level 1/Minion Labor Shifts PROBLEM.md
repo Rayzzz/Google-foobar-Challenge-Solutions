@@ -6,21 +6,20 @@ Minions' tasks are assigned by putting their ID numbers into a list, one time fo
 
 Write a function called solution(data, n) that takes in a list of less than 100 integers and a number n, and returns that same list but with all of the numbers that occur more than n times removed entirely. The returned list should retain the same ordering as the original list - you don't want to mix up those carefully-planned shift rotations! For instance, if data was [5, 10, 15, 10, 7] and n was 1, solution(data, n) would return the list [5, 15, 7] because 10 occurs twice, and thus was removed from the list entirely.
 
-### Test Cases
 
-#### Test Case 1
+#### Test cases
+==========
+Your code should pass the following test cases.
+Note that it may also be run against hidden test cases not shown here.
 
-Inputs:
-*solution([1, 2, 3], 0)*
+##### -- Python cases --
+Input:
+solution.solution([1, 2, 3], 0)
 
-Output:
-*[ ]*
+Output: [ ]
 
+Input:
+solution.solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)
 
-#### Test Case 2
+Output: [1, 4]
 
-Inputs:
-*solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)*
-
-Output:
-*[1, 4]*
