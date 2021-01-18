@@ -7,19 +7,20 @@ Due to the nature of the space station's outer paneling, all of its solar panels
 Write a function answer(area) that takes as its input a single unit of measure representing the total area of solar panels you have (between 1 and 1000000 inclusive) and returns a list of the areas of the largest squares you could make out of those panels, starting with the largest squares first. So, following the example above, answer(12) would return [9, 1, 1, 1].
 
 
-## Test Cases
 
-### Test Case 1
-Inputs:
-*answer(12)*
+#### Test cases
+==========
 
-Output:
-*[9, 1, 1, 1]*
+Your code should pass the following test cases.
+Note that it may also be run against hidden test cases not shown here.
 
-### Test Case 2
+##### -- Python cases --
+Input:
+solution.answer(12)
 
-Inputs:
-*answer(15324)*
+Output: [9, 1, 1, 1]
 
-Output:
-*[15129, 169, 25, 1]*
+Input:
+solution.answer(15324)
+
+Output: [15129, 169, 25, 1]
